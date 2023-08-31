@@ -1,15 +1,15 @@
 [
 	{
 		"id":"gold",
-		"name":"金币",
-		"desc":"金币",
+		"name":"gold",
+		"desc":"gold",
 		"locked":false,
 		"max":5
 	},
 	{
 		"id":"research",
-		"name":"研究",
-		"desc":"探索奥术之秘",
+		"name":"research",
+		"desc":"Explore the mysteries of the arcane",
 		"max":10
 	},
 	{
