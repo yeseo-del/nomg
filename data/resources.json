@@ -31,7 +31,7 @@
 	{
 
 		"id":"starcharts",
-		"desc":"星星的地图",
+		"desc":"map of the stars",
 		"max":10,
 		"mod":{
 			"research.max":1,
